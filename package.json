@@ -97,7 +97,7 @@
     "find-free-port": "^2.0.0",
     "fix-path": "^2.1.0",
     "git-repo-info": "^2.0.0",
-    "hosted-git-info": "^2.7.1",
+    "hosted-git-info": "^2.8.9",
     "imba": "^1.4.1",
     "install": "^0.12.2",
     "isbinaryfile": "^3.0.3",
